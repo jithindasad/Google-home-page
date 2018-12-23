@@ -52,3 +52,29 @@ input {
     position: absolute;
     left: 470px;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-decoration: none;
+  }
+  
+  li {
+    float: right;
+  }
+
+   #more {
+       all:unset;
+      float: right;
+      display: block;
+      width: 20px;
+      
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    
+  }
