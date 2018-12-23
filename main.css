@@ -45,6 +45,8 @@ input {
     background-color: rgba(128,134,139,.2);
     margin: auto;
     font-size: 15px;
+    outline-style: none;
+    padding-left:25px;
 }
 .mic {
     width: 17px;
@@ -58,7 +60,9 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    text-decoration: none;
+    margin-right: 25px;
+    margin-top: 10px;
+    
   }
   
   li {
@@ -66,15 +70,19 @@ ul {
   }
 
    #more {
-       all:unset;
-      float: right;
-      display: block;
-      width: 20px;
+    all: unset;
+    float: right;
+    display: block;
+    width: 15px;
+    height: 15px;
+    margin-top: 3px;
       
   }
   
   li a {
     display: block;
     padding: 8px;
+    text-decoration: none;
+    color: #6d6868;
     
   }
