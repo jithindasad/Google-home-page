@@ -46,3 +46,9 @@ input {
     margin: auto;
     font-size: 15px;
 }
+.mic {
+    width: 17px;
+    height: 17px;
+    position: absolute;
+    left: 470px;
+}
