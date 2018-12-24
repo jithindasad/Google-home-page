@@ -14,30 +14,12 @@ body{
     display: block;
 }
 
-/* .form {
-    display: block;
-    height: 36px;
-}
-input {
-    width: 450px;
-    height: 35px;
-    outline-style: none;
-    border-radius: 100px;
-    border: .1px solid rgba(123, 129, 134, 0.1);
-    background-color: rgba(123, 129, 134, 0.1);
-    margin: 20px auto;
-    font-size: 16px;
-    display: block;
-    padding-left: 10px;
-
-} */
-
-    ul {
-        list-style-type: none ;
-        margin: 20px 10px;
-        padding: 0;
-        overflow: hidden;
-        font-size: 10pt;
+ul {
+     list-style-type: none ;
+     margin: 20px 10px;
+     padding: 0;
+     overflow: hidden;
+     font-size: 10pt;
     }
 
   
@@ -96,7 +78,7 @@ input {
 
 form img {
     height: 20px;
-    width: 20px;
+    width: 15px;
     position: absolute;
     padding-top: 7px;
 }
